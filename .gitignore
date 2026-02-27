@@ -1,11 +1,8 @@
-# Секреты (токен бота не попадает в репозиторий)
-.env
-
-# Кэш Python
 __pycache__/
-*.py[cod]
+*.pyc
 .venv/
 venv/
-
-# Системные файлы
+.env
 .DS_Store
+.vscode/
+.idea/
